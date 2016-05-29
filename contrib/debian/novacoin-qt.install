@@ -1,0 +1,5 @@
+HighVoltageCoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/HighVoltageCoin-qt.desktop usr/share/applications
+debian/HighVoltageCoin-qt.protocol usr/share/kde4/services/

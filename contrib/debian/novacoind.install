@@ -1,0 +1,2 @@
+debian/bin/HighVoltageCoind usr/bin
+src/HighVoltageCoind usr/lib/HighVoltageCoin
